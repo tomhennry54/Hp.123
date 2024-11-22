@@ -149,7 +149,7 @@ body {
     align-items: center;
     padding: 10px; /* Reduced padding */
     margin: 0; /* Ensure no margin */
-    background: url(img/banner.png);
+    background: url(banner.png);
     background-position: bottom;
 }
 
